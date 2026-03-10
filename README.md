@@ -41,7 +41,7 @@ This is a personal portfolio website of Rohan Rana built with React to showcase 
 
 ## Deployment
 
-This portfolio is automatically deployed to GitHub Pages using GitHub Actions whenever changes are pushed to the master branch.
+This portfolio is automatically deployed to GitHub Pages using GitHub Actions whenever changes are pushed to the main branch.
 
 ## License
 
