@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.106f2f43.css",
+    "main.js": "/static/js/main.7ab32005.js",
+    "static/js/557.6f1e0ff8.chunk.js": "/static/js/557.6f1e0ff8.chunk.js",
+    "static/js/102.075101dc.chunk.js": "/static/js/102.075101dc.chunk.js",
+    "static/js/199.cd10375b.chunk.js": "/static/js/199.cd10375b.chunk.js",
+    "static/js/883.fa6dff14.chunk.js": "/static/js/883.fa6dff14.chunk.js",
+    "static/js/225.cea32551.chunk.js": "/static/js/225.cea32551.chunk.js",
+    "static/css/544.1de6ca14.chunk.css": "/static/css/544.1de6ca14.chunk.css",
+    "static/js/544.0e9d63ca.chunk.js": "/static/js/544.0e9d63ca.chunk.js",
+    "static/js/270.1f7488ae.chunk.js": "/static/js/270.1f7488ae.chunk.js",
+    "static/js/533.de8ec1cb.chunk.js": "/static/js/533.de8ec1cb.chunk.js",
+    "static/media/rohan-rana-pic.png": "/static/media/rohan-rana-pic.6544fbb7431c4fed9a35.png",
+    "static/media/tcsai.png": "/static/media/tcsai.ec5e931944ed1f62c711.png",
+    "static/media/internship-studio.png": "/static/media/internship-studio.f8e697689881297cfba7.png",
+    "static/media/coursera.png": "/static/media/coursera.9b6fc4fbe9c2b702bac8.png",
+    "index.html": "/index.html",
+    "main.106f2f43.css.map": "/static/css/main.106f2f43.css.map",
+    "main.7ab32005.js.map": "/static/js/main.7ab32005.js.map",
+    "557.6f1e0ff8.chunk.js.map": "/static/js/557.6f1e0ff8.chunk.js.map",
+    "102.075101dc.chunk.js.map": "/static/js/102.075101dc.chunk.js.map",
+    "199.cd10375b.chunk.js.map": "/static/js/199.cd10375b.chunk.js.map",
+    "883.fa6dff14.chunk.js.map": "/static/js/883.fa6dff14.chunk.js.map",
+    "225.cea32551.chunk.js.map": "/static/js/225.cea32551.chunk.js.map",
+    "544.1de6ca14.chunk.css.map": "/static/css/544.1de6ca14.chunk.css.map",
+    "544.0e9d63ca.chunk.js.map": "/static/js/544.0e9d63ca.chunk.js.map",
+    "270.1f7488ae.chunk.js.map": "/static/js/270.1f7488ae.chunk.js.map",
+    "533.de8ec1cb.chunk.js.map": "/static/js/533.de8ec1cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.106f2f43.css",
+    "static/js/main.7ab32005.js"
+  ]
+}
