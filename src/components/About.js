@@ -13,7 +13,7 @@ const About = () => {
     <section
       id="about"
       className="container py-16 sm:py-20 lg:py-24 relative overflow-hidden">
-      {/* Enhanced background decoration */}
+      {/* Enhanced background decoration. */}
       <div className="absolute inset-0 -z-10">
         <motion.div
           className="absolute top-0 left-1/4 w-72 h-72 bg-gradient-to-r from-blue-400/10 to-purple-500/10 rounded-full blur-3xl"
