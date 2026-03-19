@@ -30,7 +30,7 @@ export const projects = [
       code: 'https://github.com/Rohan7351',
       demo: null,
     },
-    tags: ['Spring Boot', 'REST API', 'JPA', 'MySQL', 'Role based Authentication'],
+    tags: ['Spring Boot', 'REST API', 'JPA', 'MySQL', 'Role based Authentication', 'PDF Generation'],
   },
   {
     title: 'Rent Management System',
