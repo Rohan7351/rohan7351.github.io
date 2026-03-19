@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.106f2f43.css",
-    "main.js": "/static/js/main.7ab32005.js",
+    "main.js": "/static/js/main.0fecfeb5.js",
     "static/js/557.6f1e0ff8.chunk.js": "/static/js/557.6f1e0ff8.chunk.js",
-    "static/js/102.075101dc.chunk.js": "/static/js/102.075101dc.chunk.js",
+    "static/js/102.8eda9b4d.chunk.js": "/static/js/102.8eda9b4d.chunk.js",
     "static/js/199.cd10375b.chunk.js": "/static/js/199.cd10375b.chunk.js",
     "static/js/883.fa6dff14.chunk.js": "/static/js/883.fa6dff14.chunk.js",
     "static/js/225.cea32551.chunk.js": "/static/js/225.cea32551.chunk.js",
@@ -17,9 +17,9 @@
     "static/media/coursera.png": "/static/media/coursera.9b6fc4fbe9c2b702bac8.png",
     "index.html": "/index.html",
     "main.106f2f43.css.map": "/static/css/main.106f2f43.css.map",
-    "main.7ab32005.js.map": "/static/js/main.7ab32005.js.map",
+    "main.0fecfeb5.js.map": "/static/js/main.0fecfeb5.js.map",
     "557.6f1e0ff8.chunk.js.map": "/static/js/557.6f1e0ff8.chunk.js.map",
-    "102.075101dc.chunk.js.map": "/static/js/102.075101dc.chunk.js.map",
+    "102.8eda9b4d.chunk.js.map": "/static/js/102.8eda9b4d.chunk.js.map",
     "199.cd10375b.chunk.js.map": "/static/js/199.cd10375b.chunk.js.map",
     "883.fa6dff14.chunk.js.map": "/static/js/883.fa6dff14.chunk.js.map",
     "225.cea32551.chunk.js.map": "/static/js/225.cea32551.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.106f2f43.css",
-    "static/js/main.7ab32005.js"
+    "static/js/main.0fecfeb5.js"
   ]
 }
