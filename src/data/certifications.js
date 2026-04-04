@@ -2,7 +2,7 @@ import webInt from '../Assets/internship-studio.png';
 import coursera from '../Assets/coursera.png';
 import tcsAi from '../Assets/tcsai.png';
 
-// Test Normal
+// Test Rebase
 export const certifications = [
   {
     icon: 'laptop-code',
